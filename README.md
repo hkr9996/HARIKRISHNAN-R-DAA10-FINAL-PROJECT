@@ -1,5 +1,5 @@
 # HARIKRISHNAN-R-DAA10-FINAL-PROJECT
-🧬 Tuberculosis (TB) Data Analysis Project
+🧬 Tuberculosis (TB) Burden Data Analysis Project
 🧾 Project Overview
 
 This project focuses on analyzing global Tuberculosis (TB) data to understand disease trends, mortality, and detection rates across different countries and years.
